@@ -1,7 +1,7 @@
 {
   "name": "context-error",
   "version": "0.0.0",
-  "description": "Specifies where in the stack trace things went wrong and mentions in in the message",
+  "description": "Tell users what line really matters in the stack trace.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
