@@ -1,0 +1,17 @@
+{
+  "name": "context-error",
+  "version": "0.0.0",
+  "description": "Specifies where in the stack trace things went wrong and mentions in in the message",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Matthew Chase Whittemore <mcwhittemore@gmail.com>",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "mocha": "1.14.0",
+    "node-hooks": "0.0.15",
+    "beautify.hks": "0.0.3",
+    "should": "~2.0.2"
+  }
+}
