@@ -1,6 +1,6 @@
 {
   "name": "context-error",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Tell users what line really matters in the stack trace.",
   "main": "index.js",
   "scripts": {
@@ -16,11 +16,6 @@
   },
   "directories": {
     "test": "test"
-  },
-  "dependencies": {
-    "beautify.hks": "~0.0.3",
-    "node-hooks": "~0.0.15",
-    "should": "~2.0.2"
   },
   "repository": {
     "type": "git",
