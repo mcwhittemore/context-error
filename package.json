@@ -13,5 +13,25 @@
     "node-hooks": "0.0.15",
     "beautify.hks": "0.0.3",
     "should": "~2.0.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "beautify.hks": "~0.0.3",
+    "node-hooks": "~0.0.15",
+    "should": "~2.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mcwhittemore/context-error.git"
+  },
+  "keywords": [
+    "error",
+    "context",
+    "throw"
+  ],
+  "bugs": {
+    "url": "https://github.com/mcwhittemore/context-error/issues"
   }
 }
